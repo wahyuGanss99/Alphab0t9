@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ZhyF
 
 *さ BANK*
 1. BRI 
@@ -20,8 +20,8 @@ return `PAYMENT BY ZEEONE OFC
 *さ PULSA*
 1. SMARTFREN
 	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+2. IM3
+	ㅁ 0877 8135 0596
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
