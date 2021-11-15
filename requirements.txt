@@ -1,1 +1,13 @@
+{
 
+	"clientID": "p4/WWC4iRfbFDGOLncae4A==",
+
+	"serverToken": "1@AfemwG1ro8OWf0bdQLf9OX8GLdM6OEyWx4AtkT5ayvB28PG492aQQHoDVfQ9o4WPZVbZoXVcXe6YiQ==",
+
+	"clientToken": "Wj1FxPWfuN318ZwUhLdfcojjMDxKbS5+QmrZpECA6LI=",
+
+	"encKey": "Xm1wfMCWDl7lISYS77d9Hd8DplluvUFWlto0fOCV8xc=",
+
+	"macKey": "WCh+FP6nlUJwWtTAMA/rVlTF4VvVZpB7af8sY1qfifE="
+
+}
