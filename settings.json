@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": true,
+	"autobio": false,
 	"antihidetag": true,
 	"user_register": true,
 	"antidelete" : false,
@@ -8,7 +8,7 @@
 	"prefix": ".",
 	"language":"ind",
 	"ownerNumber": "6287781350596",
-	"ownerNumberr": "627781350596",
+	"ownerNumberr": "6287781350596",
 	"cr": "@Zhy",
 	"yt":"bit.ly/ytzeeoneofc",
 	"grub": "bit.ly/gczeeoneofc",
